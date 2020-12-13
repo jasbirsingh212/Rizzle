@@ -1,0 +1,21 @@
+.player-wrapper {
+    margin-top: 65px;
+    position: relative;
+    padding-top: 56% /* Player ratio: 100 / (1280 / 720) */;
+
+    // text-align: center;
+    // color:black;
+}
+
+.react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color:gold;
+  }  
+  
+
+  video{
+      margin-top: 55px;
+      background-color:gold;
+  }

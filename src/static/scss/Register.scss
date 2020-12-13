@@ -1,0 +1,46 @@
+.register{
+    margin-top: 60px;
+}
+
+.signup-section {
+
+    margin-left: 25%;
+    margin-right: 25%;
+    background: black;
+    margin-top: 90px;
+    text-align: center;
+    color: gold;
+    #SignupForm{
+        width: 40%;
+        display: inline-block;
+       
+    }
+
+    .container{
+        display: flex;
+        flex-direction: column;
+        
+        label{
+            font-size: 25px;
+            text-align: left;
+        }
+
+        input{
+            margin-top: 5px;
+            margin-bottom: 5px;
+            height : 40px;
+        }
+
+        .btn{
+            margin: 20px 80px 20px 80px;
+        }
+    }
+}
+
+.account{
+    p{
+        a{
+        color: white;
+        }
+    }
+}
